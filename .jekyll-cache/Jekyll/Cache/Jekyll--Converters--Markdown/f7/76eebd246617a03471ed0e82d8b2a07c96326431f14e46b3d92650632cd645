@@ -1,11 +1,4 @@
----
-title: Anti-Spam Policy 
-description: Anti-Spam Policy
-categories: legal
-image: /images/legal.png
-layout: legal-doc 
----
-<section class="blog-navigation">
+I"~<section class="blog-navigation">
 <div class="text-container">
 <div class="post-content">
 <h1>Anti-Spam Policy</h1>
@@ -40,3 +33,4 @@ layout: legal-doc
 
 <p>Thanks</p>
 </div></div></section>
+:ET

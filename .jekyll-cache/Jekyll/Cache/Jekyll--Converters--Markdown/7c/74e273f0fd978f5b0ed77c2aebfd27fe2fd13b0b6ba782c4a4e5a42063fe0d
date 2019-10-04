@@ -1,14 +1,7 @@
----
-title: Anti-Spam Policy 
-description: Anti-Spam Policy
-categories: legal
-image: /images/legal.png
-layout: legal-doc 
----
-<section class="blog-navigation">
+I"—<section class="blog-navigation">
 <div class="text-container">
 <div class="post-content">
-<h1>Anti-Spam Policy</h1>
+<h1>
 <h3>What is Spam?</h3> 
 <p>In the context of electronic messaging, spam refers to any unsolicited, bulk or indiscriminate messages, typically sent for a commercial purpose. 3DePlans.com has a zero-tolerance spam policy.</p>
 
@@ -39,4 +32,6 @@ layout: legal-doc
 <p>Please sign up for our newsletter to give us your email address so we can let you know.</p>
 
 <p>Thanks</p>
-</div></div></section>
+&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;
+</h1></div></div></section>
+:ET

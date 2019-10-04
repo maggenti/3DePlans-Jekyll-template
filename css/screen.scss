@@ -12,7 +12,7 @@
 @import "forms";
 @import "navigation";
 @import "footer";
-#thing a:link, a:visited {
+#legal-docs a:link, a:visited {
   background-color: #d0a53e;
   font-weight: bold;
   color: white;
@@ -24,6 +24,6 @@
   border-left: 1em solid black
 }
 
-#thing a:hover, a:active {
+#legal-docs a:hover, a:active {
   background-color: #8a6407;
 }
