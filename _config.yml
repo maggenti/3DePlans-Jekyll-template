@@ -2,7 +2,7 @@
 # Site
 
 title: Frisco Template
-url: "https://brave-submarine.cloudvent.net"
+url: "https://3DePlans.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -44,6 +44,9 @@ collections:
   staff_members:
     _hide_content: true
     _icon: account_circle
+  legal:
+    output: true
+    permalink: "/legal/:path/"
 
 paginate: 10
 paginate_path: "/blog/:num/"
@@ -100,7 +103,17 @@ defaults:
         width: 2000
         height: 1322
         resize_style: cover
-
+  -
+    scope:
+      path: "legal"
+      type: "legal-doc"
+    values:
+      image:
+        width: 1280
+        height: 600
+      bottom_image:
+        width: 1280
+        height: 600
 # -----------
 # CloudCannon
 

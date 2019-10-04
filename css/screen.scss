@@ -12,3 +12,18 @@
 @import "forms";
 @import "navigation";
 @import "footer";
+#thing a:link, a:visited {
+  background-color: #d0a53e;
+  font-weight: bold;
+  color: white;
+  margin: 0.2em 0;
+  padding: 0.3em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-left: 1em solid black
+}
+
+#thing a:hover, a:active {
+  background-color: #8a6407;
+}

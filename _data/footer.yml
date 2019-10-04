@@ -5,6 +5,8 @@ left_links:
     link: /about/
   - name: Contact
     link: /contact/
+  - name: Legal
+    link: /legal/
 right_links:
   - name:
     link: https://facebook.com/cloudcannon
